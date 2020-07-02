@@ -1,0 +1,19 @@
+{
+  "main.css": "./static/css/main.ea192b96.chunk.css",
+  "main.js": "./static/js/main.ea2413e9.chunk.js",
+  "main.js.map": "./static/js/main.ea2413e9.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+  "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+  "static/css/2.2949791e.chunk.css": "./static/css/2.2949791e.chunk.css",
+  "static/js/2.7c0a74f4.chunk.js": "./static/js/2.7c0a74f4.chunk.js",
+  "static/js/2.7c0a74f4.chunk.js.map": "./static/js/2.7c0a74f4.chunk.js.map",
+  "index.html": "./index.html",
+  "precache-manifest.9d7ba4cd60a45e74f77915540c6b9785.js": "./precache-manifest.9d7ba4cd60a45e74f77915540c6b9785.js",
+  "service-worker.js": "./service-worker.js",
+  "static/css/2.2949791e.chunk.css.map": "./static/css/2.2949791e.chunk.css.map",
+  "static/css/main.ea192b96.chunk.css.map": "./static/css/main.ea192b96.chunk.css.map",
+  "static/media/food-delivery.svg": "./static/media/food-delivery.a91ca631.svg",
+  "static/media/loader.svg": "./static/media/loader.89eaf408.svg",
+  "static/media/pizza-logo.svg": "./static/media/pizza-logo.98d5e87a.svg",
+  "static/media/remove-icon.svg": "./static/media/remove-icon.4db19185.svg"
+}

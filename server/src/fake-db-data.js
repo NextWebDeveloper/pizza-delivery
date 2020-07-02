@@ -1,15 +1,15 @@
 const pNames = ['Carbonara', 'Village', 'Pepperoni Tomatoes', 'Pepperoni Pepper', 'Cheesy', 'Ham and cheese', 'Sweet and Sour Chicken', 'Ham and mushrooms', 'Four seasons']
 
 const pImages = [
-    '/assets/images/p1.jpeg',
-    '/assets/images/p2.jpeg',
-    '/assets/images/p3.jpeg',
-    '/assets/images/p4.jpeg',
-    '/assets/images/p5.jpg',
-    '/assets/images/p6.jpg',
-    '/assets/images/p7.jpg',
-    '/assets/images/p8.jpeg',
-    '/assets/images/p9.jpg',
+    '/static/media/images/p1.jpeg',
+    '/static/media/images/p2.jpeg',
+    '/static/media/images/p3.jpeg',
+    '/static/media/images/p4.jpeg',
+    '/static/media/images/p5.jpg',
+    '/static/media/images/p6.jpg',
+    '/static/media/images/p7.jpg',
+    '/static/media/images/p8.jpeg',
+    '/static/media/images/p9.jpg',
 ]
 
 const pDescs = [
@@ -56,10 +56,10 @@ const dNames = [
 ]
 
 const dImages = [
-    '/assets/images/d1.jpeg',
-    '/assets/images/d2.jpeg',
-    '/assets/images/d3.jpeg',
-    '/assets/images/d4.jpeg',
+    '/static/media/images/d1.jpeg',
+    '/static/media/images/d2.jpeg',
+    '/static/media/images/d3.jpeg',
+    '/static/media/images/d4.jpeg',
 ]
 
 const dDescs = [
