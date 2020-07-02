@@ -1,0 +1,27 @@
+.header-basket-button {
+    outline: none;
+    border-radius: 8px;
+    border: 1px solid rgb(255, 105, 0);
+    padding: 8px 24px;
+    overflow: hidden;
+    background: rgb(255, 105, 0);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.header-basket-button span {
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.header-basket-button__divider {
+    display: inline-block;
+    height: 20px;
+    width: 1px;
+    opacity: 0.4;
+    margin: 0px 12px;
+    background: rgb(255, 255, 255);
+}

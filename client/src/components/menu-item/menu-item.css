@@ -1,0 +1,53 @@
+.menu-item {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.menu-item__img {
+    width: 100%;
+    height: auto;
+    transition: all 0.3s ease;
+}
+
+.menu-item__img_hovered {
+    transform: translateY(12px);
+}
+
+.menu-item__title {
+    font-size: 20px;
+    line-height: 24px;
+    margin-bottom: 16px;
+}
+
+.menu-item__description {
+    font-size: 14px;
+    line-height: 20px;
+    color: rgb(115, 121, 140);
+    margin-bottom: 24px;
+}
+
+.menu-item__bottom {
+    margin-top: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu-item__price {
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.menu-item__to-basket {
+    color: rgb(255, 255, 255);
+    outline: none;
+    border-radius: 8px;
+    border: 1px solid rgb(255, 105, 0);
+    padding: 8px 24px;
+    overflow: hidden;
+    background: rgb(255, 105, 0);
+    font-weight: 500;
+    font-size: 16px;
+    user-select: none;
+    cursor: pointer;
+}

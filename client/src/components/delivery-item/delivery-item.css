@@ -1,0 +1,21 @@
+.delivery-item {
+    padding: 16px 0px;
+}
+
+.delivery-item__img {
+    width: 64px;
+    height: 64px;
+    margin-right: 16px;
+}
+
+.delivery-item__title {
+    font-size: 22px;
+    line-height: 23px;
+    font-weight: 500;
+}
+
+.delivery-item-price {
+    font-size: 20px;
+    font-weight: 50;
+    margin-right: 40px;
+}

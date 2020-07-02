@@ -1,0 +1,12 @@
+.menu-section-title {
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.menu-section-title:first-letter {
+    text-transform:capitalize;
+}
+
+.menu-item-wrapper {
+    margin-bottom: 36px!important;
+}

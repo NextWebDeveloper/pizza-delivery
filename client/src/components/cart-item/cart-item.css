@@ -1,0 +1,34 @@
+.cart-item {
+    padding: 16px 0px;
+}
+
+.cart-item__img {
+    width: 64px;
+    height: 64px;
+    margin-right: 16px;
+}
+
+.cart-item__title {
+    font-size: 22px;
+    line-height: 23px;
+    font-weight: 500;
+}
+
+.cart-item-remove {
+    border: none;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+    padding: 0;
+}
+
+.cart-item-remove img {
+    width: 16px;
+    height: 16px;
+}
+
+.cart-item-price {
+    font-size: 20px;
+    font-weight: 50;
+    margin-right: 24px;
+}

@@ -1,0 +1,26 @@
+.cart-stepper {
+    display: flex;
+    align-items: center;
+}
+
+.cart-stepper button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 24px;
+    width: 24px;
+    color: rgb(255, 105, 0);
+    border: 1px solid rgb(255, 105, 0);
+    background-color: transparent;
+    border-radius: 8px;
+    outline: none;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    user-select: none;
+}
+.cart-stepper span {
+    margin: 0 12px;
+    font-size: 22px;
+    user-select: none;
+}
