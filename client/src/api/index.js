@@ -1,4 +1,4 @@
-const baseUrl = 'http://localhost:8000/'
+const baseUrl = '/'
 
 const apiGet = (url) => {
     return fetch(`${baseUrl}${url}`).then(response => response.json())
